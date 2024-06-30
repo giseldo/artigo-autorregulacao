@@ -16,3 +16,5 @@
 	- a correlação entre os contrutos;
  	- as estatísticas da análise fatorial confirmatória.
 
+- Uma implementação do algorimto em código Python no diretório "scripts\automação\"
+
