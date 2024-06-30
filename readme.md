@@ -2,9 +2,9 @@
 
 ## Neste repositório estão disponíveis os artefatos:
 
-- Fonte do diagrama DS no Software Vesim no diretório "data\vesim\". 
+- Fonte do diagrama escrito em "dinâmica de sistemas" no Software Vesim no diretório "data\vesim\". 
 
-- relatório em PDF enviado por e-mail com todas as recomendações no diretório "pdf com recomendacao\".
+- Relatório em PDF enviado por e-mail com todas as recomendações no diretório "pdf com recomendacao\".
 
 - As assertivas utilizadas e as respostas no diretório "data\xls\" e "data\csv\".
 
