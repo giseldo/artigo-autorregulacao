@@ -1,4 +1,4 @@
-# Autorregulação
+# Autorregulação (experimento)
 
 ## Neste repositório estão disponíveis os artefatos:
 
@@ -6,13 +6,12 @@
 
 - relatório em PDF enviado por e-mail com todas as recomendações no diretório "pdf com recomendacao".
 
-- As assertivas utilizadas e as respostas no diretório "data\xls".
+- As assertivas utilizadas e as respostas no diretório "data\xls" e "data\csv".
 
-- O CSV com as respostas do ques
-tionário e as recomendações no diretório "data\csv" utilizado nos notebooks. 
+- As recomendações no diretório "data\csv\texto_recomendacao.csv" 
 
-- Notebooks Python no diretório "notebooks" com: 
+- Os notebooks Python no diretório "notebooks" com: 
 
--	as estatísticas descritivas dos construtos  e das assertivas; 
+	- com as estatísticas descritivas dos construtos  e das assertivas; 
 
--	as estatísticas da análise fatorial confirmatória os gráficos;
+	- e com as estatísticas da análise fatorial confirmatória os gráficos;
