@@ -13,5 +13,6 @@
 - Os notebooks Python no diretório "notebooks\" com: 
 
 	- com as estatísticas descritivas dos construtos  e das assertivas; 
+	- a correlação entre os contrutos;
+ 	- as estatísticas da análise fatorial confirmatória.
 
-	- e com as estatísticas da análise fatorial confirmatória.
